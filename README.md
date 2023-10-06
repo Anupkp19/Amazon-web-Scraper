@@ -1,5 +1,4 @@
 
-It looks like you've provided steps for setting up and running your Amazon Web Scraper project. To make it clearer and more structured, you can format it as follows:
 
 Amazon Web Scraper
 This Amazon Web Scraper allows you to track prices and automatically sends email notifications whenever there is a significant price drop. It is implemented using MongoDB, TypeScript, Bright Data, and cron jobs.

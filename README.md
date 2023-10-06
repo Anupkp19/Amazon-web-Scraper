@@ -43,4 +43,6 @@ Highest price
 
 
 EXAMPLE
-.<img width="1428" alt="Screenshot 2023-10-06 at 9 23 00 AM" src="https://github.com/Anupkp19/Amazon-web-Scraper/assets/93922233/2795cda4-36e0-410c-aa8d-43fadbacc176">
+<img width="1428" alt="Screenshot 2023-10-06 at 9 23 00 AM" src="https://github.com/Anupkp19/Amazon-web-Scraper/assets/93922233/835eed45-39c4-4c42-807f-bb4de9acae69">
+
+
